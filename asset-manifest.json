@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/newYearCounting/static/css/main.8483af90.chunk.css",
+    "main.js": "/newYearCounting/static/js/main.b65cfe04.chunk.js",
+    "main.js.map": "/newYearCounting/static/js/main.b65cfe04.chunk.js.map",
+    "runtime-main.js": "/newYearCounting/static/js/runtime-main.2e65ac5b.js",
+    "runtime-main.js.map": "/newYearCounting/static/js/runtime-main.2e65ac5b.js.map",
+    "static/js/2.efd4a843.chunk.js": "/newYearCounting/static/js/2.efd4a843.chunk.js",
+    "static/js/2.efd4a843.chunk.js.map": "/newYearCounting/static/js/2.efd4a843.chunk.js.map",
+    "index.html": "/newYearCounting/index.html",
+    "static/css/main.8483af90.chunk.css.map": "/newYearCounting/static/css/main.8483af90.chunk.css.map",
+    "static/js/2.efd4a843.chunk.js.LICENSE.txt": "/newYearCounting/static/js/2.efd4a843.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e65ac5b.js",
+    "static/js/2.efd4a843.chunk.js",
+    "static/css/main.8483af90.chunk.css",
+    "static/js/main.b65cfe04.chunk.js"
+  ]
+}
